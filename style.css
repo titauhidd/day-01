@@ -1,0 +1,22 @@
+.navul {
+  display: flex;
+  justify-content: end;
+  gap: 35px;
+  margin-right: 3rem;
+  list-style: none;
+}
+
+li a:hover {
+  color: rgb(180, 115, 29);
+}
+
+main > figure > img {
+  width: 20rem;
+  margin-bottom: 1px;
+}
+.figc {
+  margin-left: 2.5rem;
+}
+form > fieldset > label {
+  border-collapse: collapse;
+}
